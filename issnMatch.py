@@ -10,3 +10,5 @@ Returns JIFs for 200 ISSNs when they are found.
 import pandas as pd
 
 ### Read Client's Data ###
+
+### Read SSCI and SCIE data ###
