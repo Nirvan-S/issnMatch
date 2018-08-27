@@ -6,3 +6,5 @@ Description:
 Script to find matching ISSNs in SSCI and SCIE metrics files from a list of ISSNs provided by client. 
 Returns JIFs for 200 ISSNs when they are found. 
 """
+
+import pandas as pd
